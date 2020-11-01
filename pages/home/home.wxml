@@ -1,0 +1,3 @@
+<!--pages/home/home.wxml-->
+<text class="red">Hello world</text>
+<button>按钮</button>
